@@ -2,7 +2,7 @@
 ## Overworld
 ### Burg
 ```
-/tp -741 84 -416
+/tp -733 87 -463
 ```
 ### Portal Burg
 ```
